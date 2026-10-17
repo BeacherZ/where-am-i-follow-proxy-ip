@@ -119,7 +119,7 @@ forceSpoofHosts:  ['example.com'],   // 强制启动（优先级最高）
 
 ## License
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) © Z健C
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
