@@ -1,5 +1,7 @@
 # Where Am I — Follow Proxy IP
 
+<p align="center"><a href="README_EN.md">English</a> ｜ 简体中文</p>
+
 > 让浏览器的**时区**和**定位**跟着代理出口 IP 走，国外网站看到的信息不再自相矛盾。
 
 [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-安装-green)](https://greasyfork.org/en/scripts/600207-where-am-i-follow-proxy-ip)
